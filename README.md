@@ -1,4 +1,4 @@
-## Hi there 👋
+# Welcome to Tommy's Project Page 🌱
 
 <!--
 **TommyBelomesoff/TommyBelomesoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello! My name is Tommy Belomesoff, a 2026 Statistics Graduate from UTS Sydney and I'm looking to start a career as a Data Analyst.
+
+## 🛠️ Skills
+- Database Manipulation: Pandas, PostgreSQL
+- Visualisation: Matplotlib, Tableau
+- Statistical modelling: Logistical and Linear Regression, ANOVA, Multivariate Matching Methods
+- Programs: Excel, Rstudio, Jupyter Notebook, DBvisualiser, Tableau
