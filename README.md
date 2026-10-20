@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Hello! My name is Tommy Belomesoff, a 2026 Statistics Graduate from UTS Sydney and I'm looking to start a career as a Data Analyst.
+
 Feel free to explore my personal projects as I continue to practice my skills and sharpen my ability to generate meaningful insights! 😄
 
 ## 🛠️ Skills
